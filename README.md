@@ -11,6 +11,6 @@
 4. [Работа с файлами на сервере. Загрузка от клиента](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson4.md).
 5. [Cookie. Сессии. Авторизация](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson5.md).
 6. [Классы и объекты. Введение в ООП](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson6.md).
-7. Объектно-ориентированный подход.
+7. [Объектно-ориентированный подход](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson7.md).
 8. Работа с базой данных.
 9. Архитектура проекта.
