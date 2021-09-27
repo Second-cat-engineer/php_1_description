@@ -13,4 +13,4 @@
 6. [Классы и объекты. Введение в ООП](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson6.md).
 7. [Объектно-ориентированный подход](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson7.md).
 8. [Работа с базой данных](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson8.md).
-9. Архитектура проекта.
+9. [Архитектура проекта](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson9.md).
