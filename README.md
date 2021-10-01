@@ -18,7 +18,7 @@ ___
 ### Курс PHP2: Профессиональное программирование.
 1. [Модели данных и ООП](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson21.md).
 2. [Продолжение разговора о моделях](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson22.md).
-3. Изоляция уровня представления
+3. [Изоляция уровня представления](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson23.md).
 4. Контроллеры и фронт-контроллер
 5. Исключения
 6. Современные стандарты PHP
