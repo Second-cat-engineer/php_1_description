@@ -20,7 +20,7 @@ ___
 2. [Продолжение разговора о моделях](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson22.md).
 3. [Изоляция уровня представления](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson23.md).
 4. [Контроллеры и фронт-контроллер](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson24.md).
-5. Исключения
+5. [Исключения](https://github.com/Second-cat-engineer/php_1_description/blob/master/lesson25.md).
 6. Современные стандарты PHP
 7. "Новые" возможности PHP
 8. Обзор современных фреймворков
